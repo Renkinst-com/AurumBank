@@ -1,8 +1,8 @@
-# Banking Software - README
+# AurumBank - README
 
 ## Overview
 
-Welcome to the **Banking Software** repository! This software is designed to manage key banking operations like account management, transactions, loans, customer management, and reporting. It uses modern frontend and backend technologies to ensure scalability, performance, and security.
+Welcome to the **AurumBank** repository! This software is designed to manage key banking operations like account management, transactions, loans, customer management, and reporting. It uses modern frontend and backend technologies to ensure scalability, performance, and security.
 
 ## Table of Contents
 
